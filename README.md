@@ -1,2 +1,2 @@
-# g1
+# Work machine №g1
 test
