@@ -1,2 +1,2 @@
 # Work machine №g1
-test
+test message
